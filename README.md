@@ -1,6 +1,6 @@
-"# Hospital-Rating-Prediction" 
+## Hospital-Rating-Prediction 
 
-There are all sorts of reasons why you'd want to know a hospital's quality rating.
+# There are all sorts of reasons why you'd want to know a hospital's quality rating.
 
 Your mom is having her second hip replacement. Her first one went terribly and you're nervous about how she'll do. Which hospital would you suggest she have her surgery?
 You're selecting a health plan on your state's Exchange, but your top two choices partner with different hospitals. How will you decide which plan to pick?
